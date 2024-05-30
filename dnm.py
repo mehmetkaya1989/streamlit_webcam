@@ -27,5 +27,5 @@ while cap.isOpened() and not stop_button:
         break
 
 cap.release()
-cv2.destroyAllWindows()
+
 
